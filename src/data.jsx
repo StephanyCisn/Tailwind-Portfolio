@@ -73,7 +73,7 @@ export const projects = [
   {
     id: nanoid(),
     img: 'https://i.imgur.com/WwqNuHz.gif',
-    url: 'https://restaurant-reservation-frontend-6j8c.onrender.com/dashboard',
+    url: 'https://restaurant-reservation-frontend-6j8c.onrender.com',
     github: 'https://github.com/StephanyCisn/starter-restaurant-reservation',
     title: 'Restaurant Reservation',
     text: 'This application is for creating and managing tables and reservations for a hypothetical restaurant.',
